@@ -433,3 +433,8 @@
 - hd: hd/glimpseparrot.gif
   name: Glimpse Parrot
   tip: A glimpse from the wall
+- hd: hd/bounceparrot.gif
+  name: Bounce Parrot
+- hd: hd/jrbounceparrot.gif
+  name: Jr. Bounce Parrot
+  tip: Aww hey little fella
